@@ -3,7 +3,7 @@
   <persistedState key="memento" value="&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?>&#xD;&#xA;&lt;workbench>&#xD;&#xA;&lt;mruList>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;Animal.java&quot; tooltip=&quot;Herencia/src/pkgClaseAbstracta/Animal.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Herencia/src/pkgClaseAbstracta/Animal.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;SapoSimpson.java&quot; tooltip=&quot;Herencia/src/pkgJoseCordonesCobo/SapoSimpson.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Herencia/src/pkgJoseCordonesCobo/SapoSimpson.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.CompilationUnitEditor&quot; name=&quot;OsoPanda.java&quot; tooltip=&quot;Herencia/src/pkgPabloLopezBenjumea/OsoPanda.java&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Herencia/src/pkgPabloLopezBenjumea/OsoPanda.java&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;SapoSimpson.class&quot; tooltip=&quot;Herencia/bin/pkgJoseCordonesCobo/SapoSimpson.class&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Herencia/bin/pkgJoseCordonesCobo/SapoSimpson.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;file factoryID=&quot;org.eclipse.ui.part.FileEditorInputFactory&quot; id=&quot;org.eclipse.jdt.ui.ClassFileEditor&quot; name=&quot;Animal.class&quot; tooltip=&quot;Herencia/bin/pkgClaseAbstracta/Animal.class&quot;>&#xD;&#xA;&lt;persistable path=&quot;/Herencia/bin/pkgClaseAbstracta/Animal.class&quot;/>&#xD;&#xA;&lt;/file>&#xD;&#xA;&lt;/mruList>&#xD;&#xA;&lt;/workbench>"/>
   <tags>activeSchemeId:org.eclipse.ui.defaultAcceleratorConfiguration</tags>
   <tags>ModelMigrationProcessor.001</tags>
-  <children xsi:type="basic:TrimmedWindow" xmi:id="_pOcU4tVsEeWPCd5x1-tyLA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_pmC8ktVsEeWPCd5x1-tyLA" label="%trimmedwindow.label.eclipseSDK" x="50" y="-26" width="1024" height="768">
+  <children xsi:type="basic:TrimmedWindow" xmi:id="_pOcU4tVsEeWPCd5x1-tyLA" elementId="IDEWindow" contributorURI="platform:/plugin/org.eclipse.platform" selectedElement="_pmC8ktVsEeWPCd5x1-tyLA" label="%trimmedwindow.label.eclipseSDK" x="0" y="0" width="1024" height="768">
     <persistedState key="coolBarVisible" value="true"/>
     <persistedState key="perspectiveBarVisible" value="true"/>
     <persistedState key="isRestored" value="true"/>
@@ -278,7 +278,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ptQ-4NVsEeWPCd5x1-tyLA" elementId="org.eclipse.ui.workbench.file">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_4wZU8NVuEeWskaTb09AVEw" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_pPbzaNVsEeWPCd5x1-tyLA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_HT9FANVvEeWSY5CK5lj7DA" elementId="print" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/print_edit.png" tooltip="Print" command="_pPbzaNVsEeWPCd5x1-tyLA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ptQ-4dVsEeWPCd5x1-tyLA" elementId="additions" toBeRendered="false">
         <tags>toolbarSeparator</tags>
@@ -302,7 +302,7 @@
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ptRl8tVsEeWPCd5x1-tyLA" elementId="org.eclipse.ui.workbench.navigate">
         <tags>Draggable</tags>
-        <children xsi:type="menu:HandledToolItem" xmi:id="_4we0gNVuEeWskaTb09AVEw" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_pPYJFNVsEeWPCd5x1-tyLA"/>
+        <children xsi:type="menu:HandledToolItem" xmi:id="_HUCkkNVvEeWSY5CK5lj7DA" elementId="org.eclipse.ui.window.pinEditor" visible="false" iconURI="platform:/plugin/org.eclipse.ui/icons/full/etool16/pin_editor.png" tooltip="Pin Editor" type="Check" command="_pPYJFNVsEeWPCd5x1-tyLA"/>
       </children>
       <children xsi:type="menu:ToolBar" xmi:id="_ptRl89VsEeWPCd5x1-tyLA" elementId="group.editor" toBeRendered="false">
         <tags>toolbarSeparator</tags>
