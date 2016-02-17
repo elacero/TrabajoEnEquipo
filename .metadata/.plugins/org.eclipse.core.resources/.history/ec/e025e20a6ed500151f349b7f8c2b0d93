@@ -1,0 +1,7 @@
+package pkgPabloLopezBenjumea;
+
+public class OsoPanda {
+	private int altura;
+	private int edad;
+
+}
