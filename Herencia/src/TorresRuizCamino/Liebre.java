@@ -8,5 +8,6 @@ public class Liebre {
 	public Liebre (int velocidad)
 	{
 		//Velocidad de la liebre
+		//Prueba
 	}
 }
