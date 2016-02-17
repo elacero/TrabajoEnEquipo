@@ -1,0 +1,14 @@
+package pkgPabloLopezBenjumea;
+
+public class OsoPanda {
+	private int altura;
+	private int edad;
+	
+	public OsoPanda(String genero, String especie, String nombreVulgar, int tiempoMedioVida, String tam) {
+		super(genero, especie, nombreVulgar, tiempoMedioVida);
+		// TODO Apéndice de constructor generado automáticamente
+		
+		this.setTamaño(tam);
+	}
+
+}
