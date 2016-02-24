@@ -1,0 +1,27 @@
+package pkgPabloLopezBenjumea;
+
+import pkgClaseAbstracta.Animal;
+
+public class OsoPanda extends Animal {
+	private int altura;
+	private int edad;
+	
+	public OsoPanda(String genero, String especie, String nombreVulgar, int tiempoMedioVida, String tam) {
+		super(genero, especie, nombreVulgar, tiempoMedioVida);
+		// TODO Apéndice de constructor generado automáticamente
+
+	}
+
+	@Override
+	public void SeDesplaza() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void SeAlimenta() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
